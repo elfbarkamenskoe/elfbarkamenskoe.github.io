@@ -1,0 +1,2 @@
+Host: https://elfbar-kamenskoe.com.ua
+Sitemap: https://elfbar-kamenskoe.com.ua/sitemap.xml
